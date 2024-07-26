@@ -10,16 +10,22 @@
  •API Endpoints
  •Contributing
  •Contact
+</pre>
+<pre>
  # Introduction
-
+<pre>
 The eBookShelf is a comprehensive full-stack web application designed to manage e-books in a library setting. The system allows administrators to browse, borrow, and return e-books can add and manage the collection.
+</pre>
 
 # Features
+<pre>
 •Borrow and return e-books
 •Manage users and e-books (Admin functionality)
 •Responsive and user-friendly interface
 <br>
+</pre>
 # Technologies Used
+<pre>
 Frontend
 •React.js
 •Axios for HTTP requests
@@ -29,7 +35,9 @@ Backend
 •MySQL for the database
 •JPA/Hibernate for ORM
  <br>
+</pre>
 # Other
+<pre>
 •Maven for project management
 •Git for version control
 •Installation
@@ -38,7 +46,9 @@ Backend
 •Java JDK
 •Maven
 •MySQL
+</pre>
 # Backend Setup
+<pre>
 Clone the repository:
 
 •git clone https://github.com/yourusername/eBookLibrary.git
@@ -70,8 +80,9 @@ npm install
 Start the frontend application:
 
 npm start
- 
-Usage
+</pre>
+# Usage
+<pre>
 Open your web browser and navigate to http://localhost:3000.
 
 •Browse the collection of e-books.
