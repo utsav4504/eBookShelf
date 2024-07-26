@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.fixed-card-body {
+  height: 250px; /* Adjust this value as needed */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.card-body {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.home-page {
+  background-image: url('./cardBackground.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding: 20px;
+  color: white;
+}
+.card-background {
+  background-image: url('./background.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; 
+  font-weight: bold;
+
+}
+header h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: conic-gradient(#553c9a, #ee4b2b, #00c2cb, #553c9a);;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
