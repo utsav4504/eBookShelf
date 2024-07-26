@@ -1,7 +1,7 @@
 
 ## eBookShelf
-###Table of Contents
-
+### Table of Contents
+<pre>
  Introduction
  •Features
  •Technologies Used
@@ -95,6 +95,6 @@ POST /api/users - Add a new user
 DELETE /api/users/{id} - Delete a user
 
 
-
+</pre>
 # Contact
 If you have any questions or suggestions, feel free to contact me at utsav45.jn@gmail.com.
