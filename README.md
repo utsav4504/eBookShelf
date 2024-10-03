@@ -10,11 +10,11 @@
 - [Contact](#contact)
 
 ## Introduction
-The eBookShelf is a comprehensive full-stack web application designed to manage e-books in a library setting. The system allows administrators to browse, borrow, and return e-books, and to add and manage the collection.
+The eBookShelf is a comprehensive full-stack web application designed to manage books. The system allows administrators to browse, borrow, and return books, and to add and manage the collection.
 
 ## Features
-- Borrow and return e-books
-- Manage users and e-books (Admin functionality)
+- Borrow and return books
+- Manage users and books (Admin functionality)
 - Responsive and user-friendly interface
 
 ## Technologies Used
